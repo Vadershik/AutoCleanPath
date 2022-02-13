@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\AutoCleanPath\obj\Debug\net5.0\AutoCleanPath.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AutoCleanPath\obj\Debug\net5.0\AutoCleanPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AutoCleanPath\obj\Debug\net5.0\AutoCleanPath.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AutoCleanPath\obj\Debug\net5.0\AutoCleanPath.AssemblyInfo.cs
+C:\Users\user\Desktop\AutoCleanPath\obj\Debug\net5.0\AutoCleanPath.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AutoCleanPath\bin\Debug\net5.0\AutoCleanPath.exe
+C:\Users\user\Desktop\AutoCleanPath\bin\Debug\net5.0\AutoCleanPath.deps.json
+C:\Users\user\Desktop\AutoCleanPath\bin\Debug\net5.0\AutoCleanPath.runtimeconfig.json
+C:\Users\user\Desktop\AutoCleanPath\bin\Debug\net5.0\AutoCleanPath.runtimeconfig.dev.json
+C:\Users\user\Desktop\AutoCleanPath\bin\Debug\net5.0\AutoCleanPath.dll
+C:\Users\user\Desktop\AutoCleanPath\bin\Debug\net5.0\ref\AutoCleanPath.dll
+C:\Users\user\Desktop\AutoCleanPath\bin\Debug\net5.0\AutoCleanPath.pdb
+C:\Users\user\Desktop\AutoCleanPath\obj\Debug\net5.0\AutoCleanPath.dll
+C:\Users\user\Desktop\AutoCleanPath\obj\Debug\net5.0\ref\AutoCleanPath.dll
+C:\Users\user\Desktop\AutoCleanPath\obj\Debug\net5.0\AutoCleanPath.pdb
+C:\Users\user\Desktop\AutoCleanPath\obj\Debug\net5.0\AutoCleanPath.genruntimeconfig.cache
