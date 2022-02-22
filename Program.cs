@@ -32,8 +32,8 @@ namespace AutoCleanPath
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Здраствуйте.");
             Console.WriteLine("Введите путь в котором нужно отсортировать файлы по папкам:");
+	    Console.Write("> ");
             path = Console.ReadLine(); //Получаем путь
             //Проверяем введён ли путь
             if(CheckPathTrue(path)) Console.WriteLine("Ошибка: вы не ввели путь,перезапустите и попробуйте снова");
