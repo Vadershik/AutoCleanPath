@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6Cos1wfbPuUHfY+CcMGgupshJkkjpQMo+E90gs70ukKLi94QN3i27fxMAI44MKuNzM2Nlq2YQW7DiyLn69LiHw==",
+  "dgSpecHash": "oYP6My7jffONXPKrr/dWeJVyGrcAff5uJ5ijaMCMfZipyPViTY3ac4YAEckbFCkpJ7Iaeg/tlMQqMUytF8x9yw==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\AutoCleanPath\\AutoCleanPath.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.14\\microsoft.netcore.app.host.win-x86.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
